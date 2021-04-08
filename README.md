@@ -5,7 +5,7 @@ Nowadays, automatic disease detection has become a crucial issue in medical scie
 #### The overall system architecture:
 ![1-s2 0-S2352914820305621-gr1](https://user-images.githubusercontent.com/31788789/113980499-5e3cdd80-9868-11eb-855f-1f8ede5e44c3.jpg)
 
-#### The combined CNN-RNN architecture:
+#### The combined CNN-LSTM architecture:
 ![Screenshot (29)](https://user-images.githubusercontent.com/31788789/113980436-50875800-9868-11eb-8296-868975f50f19.png)
 
 ## Dataset

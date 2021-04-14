@@ -9,7 +9,7 @@ Nowadays, automatic disease detection has become a crucial issue in medical scie
 ![Screenshot (29)](https://user-images.githubusercontent.com/31788789/113980436-50875800-9868-11eb-8296-868975f50f19.png)
 
 ## Dataset
-The dataset can be found in [here](https://data.mendeley.com/datasets/mxc6vb7svm). For dataset related queries, please drop an email to amanullahoasraf@gmail.com
+The dataset can be found in [here](https://data.mendeley.com/datasets/jctsfj2sfn). For dataset related queries, please drop an email to amanullahoasraf@gmail.com
 
 ## Citation
 Please cite our paper if you find the work useful:
